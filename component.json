@@ -1,6 +1,6 @@
 {
   "name": "traverse",
-  "repo": "yields/traverse",
+  "repo": "green-mesa/traverse",
   "description": "low level traverse function, inspired by $.dir.",
   "version": "0.1.1",
   "keywords": ["traverse", "dir"],

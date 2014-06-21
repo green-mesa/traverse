@@ -1,0 +1,20 @@
+{
+  "name"          : "green-mesa-traverse",
+  "description"   : "low level traverse function, inspired by $.dir., code from github/yields/traverse",
+  "url"           : "http://github.com/green-mesa/value",
+  "keywords"      : ["traverse", "client", "browser"],
+  "author"        : "github/yields/traverse",
+  "dependencies"  : {
+    "component-matches-selector" : "0.1.4"
+  },
+  "main"          : "index.js",
+  "version"       : "0.1.1",
+  "license"       : "MIT",
+  "browser" : {
+    "matches-selector" : "component-matches-selector"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/green-mesa/traverse.git"
+  }
+}
